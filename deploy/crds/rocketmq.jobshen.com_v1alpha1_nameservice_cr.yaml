@@ -1,0 +1,7 @@
+apiVersion: rocketmq.jobshen.com/v1alpha1
+kind: NameService
+metadata:
+  name: example-nameservice
+spec:
+  # Add fields here
+  size: 3

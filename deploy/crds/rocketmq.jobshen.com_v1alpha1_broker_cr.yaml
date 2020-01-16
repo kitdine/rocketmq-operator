@@ -1,0 +1,7 @@
+apiVersion: rocketmq.jobshen.com/v1alpha1
+kind: Broker
+metadata:
+  name: example-broker
+spec:
+  # Add fields here
+  size: 3
